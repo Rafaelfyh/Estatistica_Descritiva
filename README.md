@@ -1,2 +1,2 @@
-# Estatisticia_descritiva
+# EstatistiCa_descritiva
 Analise descritiva de dados
